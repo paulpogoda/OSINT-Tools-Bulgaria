@@ -4,6 +4,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 Forked from LinaYorda's [repo](https://github.com/LinaYorda/OSINT-Tools-Bulgaria), rearranged and updated for  [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0) project. 
 
+Notes from LinaYorda: *"Google and website dorking with these tools is highly beneficial and recommended. Alternatively, you can use Google translate. A word regarding the government's public data in Bulgaria - most of the registers are not electronically available, and those that are - are not fully updated. I also added non-government portals. Want me to include something? Make a pull request"*.
+
 ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
