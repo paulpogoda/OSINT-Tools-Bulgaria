@@ -24,7 +24,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Bird](https://bird.bg/tr/). Bulgarian Registry of Companies
 
 ## Maps
-- [Cadastral Map](Cadastral map of Bulgaria. Look). Paid (Bulgarian & English)
+- [Cadastral Map](https://kais.cadastre.bg/en/Home/GetVideoTutorialById?id=42)). Paid (Bulgarian & English)
+- [Cadastral Info](https://kais.cadastre.bg/en). Paid
 - [BulMaps](https://www.bulmaps.bg/) : Bulgarian map service (Bulgarian & English)
 - [BGmaps](https://www.bgmaps.com) : Bulgarian map service (Bulgarian)
 
