@@ -1,6 +1,6 @@
 # OSINT-Tools-Bulgaria
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria_FLAG"/>
-A list of OSINT tools that may be useful to you when conducting investigations related to Bulgaria. Most of resources and tools has versions in English version, but a basic knowledge of Bulgarian is required. Forked from [LinaYorda](https://github.com/LinaYorda).
+A list of OSINT tools that may be useful to you when conducting investigations related to Bulgaria. Most of resources and tools has versions in English version, but a basic knowledge of Bulgarian is required. 
 
 ## Table of content:
  - [Open Data portals](#open-data-portals)
