@@ -12,7 +12,6 @@ A list of OSINT tools that may be useful to you when conducting investigations r
  - [WHOIS](#whois)
 
 ## Open Data portals
-(Country Open Data, Stock Exchange, Courts)
 - [eGov](https://data.egov.bg). Bulgarian eGOV open portal. Info regarding companies and people(Bulgarian & English)
 - [Strazha](https://www.strazha.bg). Parliament search engine. Search for political statements in the parliament (Bulgarian)
 
@@ -25,12 +24,13 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Bird](https://bird.bg/tr/). Bulgarian Registry of Companies
 
 ## Maps
-(Cadastral Maps if available, GIS etc.)
-- [BulMaps](https://www.bulmaps.bg/) : Bulgarian map service (Bulgarian & English).
-- [BGmaps](https://www.bgmaps.com) : Bulgarian map service (Bulgarian).
+- [Cadastral Map](Cadastral map of Bulgaria. Look). Paid (Bulgarian & English)
+- [BulMaps](https://www.bulmaps.bg/) : Bulgarian map service (Bulgarian & English)
+- [BGmaps](https://www.bgmaps.com) : Bulgarian map service (Bulgarian)
 
 ## Vehicles
-- [Entity 1. 2 etc.]
+- [PlatesMania](https://platesmania.com/bg/search)
+- [Old VS New plates](https://licenseplatemania.com/landenpaginas/bulgarije_volledig.htm)
 
 ## People 
 - [SearchBG](http://search.bg). Bulgarian search engine, powered by Google (Bulgarian).
@@ -44,7 +44,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [OLX](https://olx.bg). Popular Bulgarian online market like ebay
 
 ## Public procurement
-- [Entity 1. 2 etc.]
+- [Public Procurement Portal](https://identity.eop.bg). Registration required
 
 
 ## WHOIS
