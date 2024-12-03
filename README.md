@@ -41,7 +41,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Yox](https://yox.bg). Job portal; search by name & company (Bulgarian)
 - [Bulgarian ID number Generator](https://georgi.unixsol.org/programs/egn.php) : Generates possible bulgarian ID numbers from birth information
 - [Nekorekten](https://nekorekten.com/) : Website for checking if someone has been reported for being a scammer by using telephone number
-- [Social CSE]
+- [Social CSE by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0)
 - [OLX](https://olx.bg). Popular Bulgarian online market like ebay
 
 ## Public procurement
