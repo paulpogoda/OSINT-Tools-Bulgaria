@@ -9,7 +9,7 @@ Forked from LinaYorda's [repo](https://github.com/LinaYorda/OSINT-Tools-Bulgaria
 ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
- - [Cadastral Maps](#maps)
+ - [Cadastral and other Maps](#maps)
  - [Vehicles](#vehicles)
  - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
