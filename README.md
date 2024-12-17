@@ -6,7 +6,7 @@ Forked from LinaYorda's [repo](https://github.com/LinaYorda/OSINT-Tools-Bulgaria
 
 **Notes from LinaYorda:** *"Google and website dorking with these tools is highly beneficial and recommended. Alternatively, you can use Google translate. A word regarding the government's public data in Bulgaria - most of the registers are not electronically available, and those that are - are not fully updated. I also added non-government portals. Want me to include something? Make a pull request"*.
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
