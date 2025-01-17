@@ -57,4 +57,4 @@ Forked from LinaYorda's [repo](https://github.com/LinaYorda/OSINT-Tools-Bulgaria
 - [Register](https://www.register.bg/) : DNS check of top-level domain .bg (Bulgarian & English).
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
